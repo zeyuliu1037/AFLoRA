@@ -1,15 +1,4 @@
-# AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models
 
-## Citing
-Please consider citing our paper if you find this repository useful.
-```
-@misc{liu2024aflora,
-      title={AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models}, 
-      author={Zeyu Liu and Souvik Kundu and Anni Li and Junrui Wan and Lianghao Jiang and Peter Anthony Beerel},
-      year={2024},
-      journal={arXiv preprint arXiv:2403.13269},
-}
-```
 ## Schematic comparison of LoRA, ELoRA (VeRA), and AFLoRA
 
 <p align="center">
@@ -131,7 +120,18 @@ python finetune.py \
   <img src="figs/heatmap.png" alt="figs/heatmap.png" height="200px"/>
   <img src="figs/system.png" alt="figs/system.png" height="200px"/>
 </p>
+# AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models
 
+## Citing
+Please consider citing our paper if you find this repository useful.
+```
+@misc{liu2024aflora,
+      title={AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models}, 
+      author={Zeyu Liu and Souvik Kundu and Anni Li and Junrui Wan and Lianghao Jiang and Peter Anthony Beerel},
+      year={2024},
+      journal={arXiv preprint arXiv:2403.13269},
+}
+```
 ## Reference
 The code for this project references the following previous work:
 
