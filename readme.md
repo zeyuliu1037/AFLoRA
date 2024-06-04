@@ -127,7 +127,6 @@ python finetune.py \
   <img src="figs/heatmap.png" alt="figs/heatmap.png" height="200px"/>
   <img src="figs/system.png" alt="figs/system.png" height="200px"/>
 </p>
-# AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models
 
 ## Citing
 Please consider citing our paper if you find this repository useful.
