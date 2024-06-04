@@ -9,8 +9,8 @@ This is the official repository of AFLoRA, accepted in ACL 2024.
 </p>
 
 ## Contributors
-1. Zeyu Liu (USC)
-2. Souvik Kundu (Intel Labs)
+1. Zeyu Liu* (USC)
+2. Souvik Kundu* (Intel Labs)
    
 ## Directory Structure
 
