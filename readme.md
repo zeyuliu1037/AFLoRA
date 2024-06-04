@@ -1,10 +1,16 @@
-
+![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)
+[![arxiv](http://img.shields.io/badge/arxiv-2310.04562-yellow.svg)](https://arxiv.org/pdf/2403.13269)
+## AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models
 ## Schematic comparison of LoRA, ELoRA (VeRA), and AFLoRA
 
 <p align="center">
   <img src="figs/AFLoRA.png" alt="figs/AFLoRA.png" height="300px"/>
 </p>
 
+## Contributors
+1. Zeyu Liu (USC)
+2. Souvik Kundu (Intel Labs)
+3. 
 ## Directory Structure
 
 ### glue
@@ -132,7 +138,7 @@ Please consider citing our paper if you find this repository useful.
       journal={arXiv preprint arXiv:2403.13269},
 }
 ```
-## Reference
+## Acknowledgments
 The code for this project references the following previous work:
 
 [PEFT](https://github.com/huggingface/peft/)
