@@ -1,6 +1,6 @@
 ![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)
 [![arxiv](http://img.shields.io/badge/arxiv-2310.04562-yellow.svg)](https://arxiv.org/pdf/2403.13269)
-## AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models
+## [ACL 2024] AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models
 ## Schematic comparison of LoRA, ELoRA (VeRA), and AFLoRA
 
 <p align="center">
