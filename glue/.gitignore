@@ -1,0 +1,10 @@
+/output
+/scripts
+/results
+/weights
+/runs
+/queue
+/wandb
+/g_model_save
+/__pycache__
+*.pkl
