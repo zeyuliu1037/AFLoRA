@@ -146,3 +146,5 @@ The code for this project references the following previous work:
 [VeRA](https://openreview.net/forum?id=NjNfLdxr3A)
 
 [LoSparse](https://github.com/yxli2123/LoSparse/tree/main)
+
+[LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters).
