@@ -143,7 +143,7 @@ The code for this project references the following previous work:
 
 [PEFT](https://github.com/huggingface/peft/)
 
-[VeRA](https://openreview.net/forum?id=NjNfLdxr3A)
+[VeRA (ELoRA)](https://openreview.net/forum?id=NjNfLdxr3A)
 
 [LoSparse](https://github.com/yxli2123/LoSparse/tree/main)
 
